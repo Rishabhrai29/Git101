@@ -1,3 +1,3 @@
 console.log("Hello Rishabh");
 a+b
-c
+console.log(2+3);
