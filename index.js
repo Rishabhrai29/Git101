@@ -1,1 +1,2 @@
-console.log("Hello Rishabh")
+console.log("Hello Rishabh");
+a+b
